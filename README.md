@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Alessio from Florence, Italy<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Alessio from Florence, Italy<br><br>- 🔭 I’m working as fullstack C# developer<br>- 📚 I'm currently learning Blazor<br>- ⚡ In my free time I love travel</p>
 
 ###
 
